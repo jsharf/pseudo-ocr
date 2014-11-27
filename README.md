@@ -10,6 +10,8 @@ This code is my solution to problem 3 from the Hackerrank college programming co
 
 Here is an example of what an input text file would look like
 
+    8 
+    37
     .......................................
     .####.#####..#####..#####..#..#..#####.
     ....#.....#..#..........#..#..#..#...#.
