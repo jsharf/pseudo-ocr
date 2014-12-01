@@ -1,6 +1,6 @@
 
-all:
+build:
 	g++ -o readpass readPass.cpp
 
-test:
+test: build
 	python TestScript.py
